@@ -1,0 +1,14 @@
+.testimonial-slider .carousel-indicators button {
+    width: 10px;
+    height: 10px;
+    background-color: rgb(55, 81, 126);
+    border-radius: 100%;
+}
+.testimonial-slider {
+    padding: 10px 0px 40px;
+    background-color: #f3f5fa !important;
+}
+#testimonial-i{
+    font-size: 40px;
+    color: rgb(55, 81, 126);
+}

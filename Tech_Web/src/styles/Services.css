@@ -1,0 +1,22 @@
+#heading{
+    color: rgb(55, 81, 126) !important;
+}
+
+
+.card-title{
+    color: rgb(55, 81, 126);
+}
+
+
+.btn-outline-secondary{
+    color: rgb(55, 81, 126) !important;
+}
+
+.card{
+    cursor: pointer;
+}
+
+.card:hover{
+    background-color:  #f3f5fa;
+}
+
